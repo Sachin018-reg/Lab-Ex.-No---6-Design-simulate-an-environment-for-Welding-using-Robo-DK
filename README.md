@@ -95,5 +95,6 @@ risk of interfering with the robot.
 
 
 ### Results of simulation 
+![ex4](https://github.com/user-attachments/assets/5920f327-c054-44f5-b647-873498e367a4)
 
 
